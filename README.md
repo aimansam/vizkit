@@ -1,10 +1,10 @@
 # vizkit
 
 ```text
-╔══════════════════════════════╗
-║           VIZKIT              ║
-║  data in · insight out        ║
-╚══════════════════════════════╝
+   |       |      |\\
+   |  |    |      | \\
+   |  |  __|__    |  |   VIZKIT
+ __|__|_|  |  |___|  |   data in · insight out
 ```
 
 **Beautiful data visualization from CSV/JSON in 3 lines of code.**
