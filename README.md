@@ -8,6 +8,11 @@ Bar, line, scatter, heatmap, and pie charts with sensible defaults, color themes
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Pillow](https://img.shields.io/badge/dependency-Pillow-lightgrey.svg)](https://python-pillow.org/)
 
+![vizkit charts](assets/vizkit_bar.png)
+![vizkit line chart](assets/vizkit_line.png)
+
+*Bar and line charts from the same data — one code path each.*
+
 ## Quickstart
 
 ```bash
