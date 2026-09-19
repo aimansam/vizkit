@@ -1,5 +1,12 @@
 # vizkit
 
+```text
+╔══════════════════════════════╗
+║           VIZKIT              ║
+║  data in · insight out        ║
+╚══════════════════════════════╝
+```
+
 **Beautiful data visualization from CSV/JSON in 3 lines of code.**
 
 Bar, line, scatter, heatmap, and pie charts with sensible defaults, color themes, and PNG export. Built on Pillow — no heavy dependencies, no browser required.
